@@ -5,6 +5,7 @@ Access the live app from here - https://custm-churn-predictor.streamlit.app/
 # Overview 
 - This app is trained on  https://github.com/yashydv9/Customer-Churn-Predictor/blob/main/Cust_Churn.csv
 dataset and can predict results as per this dataset only.
+- Most customers have churned in between 0-1 months of tenure. Tenure >1 have negligible affect on churn prediction. 
 
 - Train it with other datasets to improve its accuracy. 
 
